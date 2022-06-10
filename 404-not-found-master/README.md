@@ -1,12 +1,12 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Dev Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>
     <a href="https://{your-demo-link.your-domain}">
       Demo
@@ -20,17 +20,17 @@
       Challenge
     </a>
   </h3>
-</div>
+</div> -->
 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-- [Overview](#overview)
+<!-- - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Acknowledgements](#acknowledgements) -->
 
 <!-- OVERVIEW -->
 
